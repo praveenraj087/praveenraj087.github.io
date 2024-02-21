@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75db210a.css",
+    "main.js": "/static/js/main.81f6477a.js",
+    "static/media/IMG_4499.png": "/static/media/IMG_4499.aeb2e5bbe67c47976221.png",
+    "static/media/BrainTumor.jpg": "/static/media/BrainTumor.571a1d66e1434881c505.jpg",
+    "static/media/Retinopathy.jpg": "/static/media/Retinopathy.817d359001359522087f.jpg",
+    "static/media/CPCScore.jpg": "/static/media/CPCScore.b61f6c40deb6715759c1.jpg",
+    "static/media/cv.pdf": "/static/media/cv.f4157aa0ae00e6e5fb23.pdf",
+    "static/media/Raspberry.jpg": "/static/media/Raspberry.5b81b2bafefbd2a94098.jpg",
+    "static/media/me-about.svg": "/static/media/me-about.c50c576af78a4172f78dc03f701a9a51.svg",
+    "index.html": "/index.html",
+    "main.75db210a.css.map": "/static/css/main.75db210a.css.map",
+    "main.81f6477a.js.map": "/static/js/main.81f6477a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75db210a.css",
+    "static/js/main.81f6477a.js"
+  ]
+}
