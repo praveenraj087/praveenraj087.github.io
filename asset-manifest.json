@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.75db210a.css",
-    "main.js": "/static/js/main.81f6477a.js",
+    "main.css": "/static/css/main.8707925d.css",
+    "main.js": "/static/js/main.7442d391.js",
     "static/media/IMG_4499.png": "/static/media/IMG_4499.aeb2e5bbe67c47976221.png",
     "static/media/BrainTumor.jpg": "/static/media/BrainTumor.571a1d66e1434881c505.jpg",
     "static/media/Retinopathy.jpg": "/static/media/Retinopathy.817d359001359522087f.jpg",
@@ -10,11 +10,11 @@
     "static/media/Raspberry.jpg": "/static/media/Raspberry.5b81b2bafefbd2a94098.jpg",
     "static/media/me-about.svg": "/static/media/me-about.c50c576af78a4172f78dc03f701a9a51.svg",
     "index.html": "/index.html",
-    "main.75db210a.css.map": "/static/css/main.75db210a.css.map",
-    "main.81f6477a.js.map": "/static/js/main.81f6477a.js.map"
+    "main.8707925d.css.map": "/static/css/main.8707925d.css.map",
+    "main.7442d391.js.map": "/static/js/main.7442d391.js.map"
   },
   "entrypoints": [
-    "static/css/main.75db210a.css",
-    "static/js/main.81f6477a.js"
+    "static/css/main.8707925d.css",
+    "static/js/main.7442d391.js"
   ]
 }
