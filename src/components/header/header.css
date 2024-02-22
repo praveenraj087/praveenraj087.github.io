@@ -1,0 +1,139 @@
+/* header {
+	height: 100vh;
+	padding-top: 7rem;
+	overflow: hidden;
+} */
+header {
+	padding-top: 7rem;
+	overflow: hidden;
+	text-align: center;
+}
+
+/* .header__container {
+	text-align: center;
+	height: 100%;
+	position: relative;
+} */
+.header__container {
+	position: relative;
+	padding: 2rem;
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+/*CTA*/
+.cta {
+	margin-top: 2.5rem;
+	display: flex;
+	gap: 1.2rem;
+	justify-content: center;
+}
+
+/* SOCIALS */
+
+.header__socials {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 0.8rem;
+	position: absolute;
+	left: 0;
+	bottom: 3rem;
+}
+
+.header__socials::after {
+	content: '';
+	width: 1px;
+	height: 2rem;
+	background: var(--color-primary);
+}
+
+/* IMAGE */
+
+.me {
+	width: 30rem;
+	height: 38rem;
+	background-size: cover;
+	position: relative;
+	left: calc(50% - 15rem);
+	margin-top: 4rem;
+	border-radius: 12rem 12rem 0 0;
+	overflow: hidden;
+	transform: translateZ(0);
+	animation: profile__animate 8s ease-in-out infinite 1s;
+	/* padding: 5rem 1.5rem 1.5rem 1.5rem; */
+	/* background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	
+	order: 1;
+	justify-self: center;
+	width: 300px;
+	height: 300px; */
+}
+
+.me img {
+	width: 30rem;
+	height: 38rem;
+	object-fit: cover;
+	border-radius: inherit;
+	animation: profile__animate 8s ease-in-out infinite 1s;
+}
+
+@keyframes profile__animate {
+	0% {
+		border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+	}
+	50% {
+		border-radius: 30% 60% 70% 40%/ 50% 60% 30% 60%;
+	}
+	100% {
+		border-radius: 60% 40% 30% 70%/ 60% 30% 70% 40%;
+	}
+}
+
+/* @keyframes profile__animate {
+	0% {
+		clip-path: polygon(60% 0%, 100% 35%, 100% 100%, 40% 100%, 0 60%, 0 0);
+		transform: scale(1);
+	}
+	50% {
+		clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0 100%, 0 50%, 50% 0);
+		transform: scale(1.05);
+	}
+	100% {
+		clip-path: polygon(60% 0%, 100% 35%, 100% 100%, 40% 100%, 0 60%, 0 0);
+		transform: scale(1);
+	}
+} */
+/* SCROLL DOWN */
+
+.scroll__down {
+	position: absolute;
+	right: -2.3rem;
+	bottom: 5rem;
+	transform: rotate(90deg);
+	font-weight: 300;
+	font-size: 0.9rem;
+}
+
+/* MEDIA QUERIES (MEDIUM DEVICES) */
+
+@media screen and (max-width: 1024px) {
+	header {
+		height: 68vh;
+	}
+}
+
+/* MEDIA QUERIES (SMALL DEVICES) */
+
+@media screen and (max-width: 600px) {
+	header {
+		height: 100vh;
+	}
+
+	.header__socials,
+	.scroll__down {
+		display: none;
+	}
+}
