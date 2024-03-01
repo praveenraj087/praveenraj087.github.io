@@ -106,6 +106,12 @@
 /* MEDIA QUERIES (SMALL DEVICES) */
 
 @media screen and (max-width: 350px) {
+	.qualification__container {
+		grid-template-columns: 1fr;
+		margin-left: var(--mb-1-5);
+		margin-right: var(--mb-1-5);
+	}
+
 	.qualification__data {
 		gap: 0.5rem;
 	}

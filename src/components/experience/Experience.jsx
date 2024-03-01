@@ -23,6 +23,7 @@ import { SiPostgresql } from 'react-icons/si';
 import { TbBrandMongodb } from 'react-icons/tb';
 import { FaDocker } from 'react-icons/fa';
 import { SiKubernetes } from 'react-icons/si';
+import { GrHadoop } from 'react-icons/gr';
 const Experience = () => {
 	return (
 		<section id='experience'>
@@ -72,6 +73,13 @@ const Experience = () => {
 							<SiApachespark className='experience__details-icons' />
 							<div>
 								<h4>PySpark</h4>
+								<small className='text-light'>Experienced</small>
+							</div>
+						</article>
+						<article className='experience__details'>
+							<GrHadoop className='experience__details-icons' />
+							<div>
+								<h4>Apache Hadoop</h4>
 								<small className='text-light'>Experienced</small>
 							</div>
 						</article>
