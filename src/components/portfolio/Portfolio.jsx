@@ -8,38 +8,38 @@ import IMG4 from '../../assets/Retinopathy.jpg';
 const data = [
 	{
 		id: 1,
-		image: IMG,
+		image: IMG1,
 		title: 'Innovative Threads: A 3D design Experience powered by DALL-E',
 		github: 'https://github.com/praveenraj087/three-generative-ai',
 	},
 	{
 		id: 2,
-		image: IMG,
+		image: IMG1,
 		title: 'Personal Portfolio Design',
 		github:
 			'https://github.com/praveenraj087/praveenraj087.github.io/tree/main',
 	},
 	{
-		id: 2,
+		id: 3,
 		image: IMG1,
 		title: 'Best CPC Score',
 		github: 'https://github.com/praveenraj087/best-cpc-score',
 	},
 	{
-		id: 3,
+		id: 4,
 		image: IMG2,
 		title: 'Brain Tumor Detection using Deep Learning',
 		github: 'https://github.com/praveenraj087/brain-tumor-detection-DL',
 	},
 	{
-		id: 4,
+		id: 5,
 		image: IMG3,
 		title: 'Bibliometric Study of Raspberry Pi in Healthcare',
 		github:
 			'https://thesai.org/Publications/ViewPaper?Volume=11&Issue=10&Code=IJACSA&SerialNo=38',
 	},
 	{
-		id: 5,
+		id: 6,
 		image: IMG4,
 		title: 'Diabetic Retinpathy Diagnosis',
 		github: 'https://github.com/praveenraj087/diabetic-retinopathy',
