@@ -1,8 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.22febaff.css",
-    "main.js": "/static/js/main.76a11a20.js",
+    "main.js": "/static/js/main.5dc54582.js",
     "static/media/IMG_4499.png": "/static/media/IMG_4499.aeb2e5bbe67c47976221.png",
+    "static/media/gen-website.png": "/static/media/gen-website.52730c1a6174d89355c9.png",
+    "static/media/port-image.png": "/static/media/port-image.189db9ddbc550f08d8d1.png",
     "static/media/BrainTumor.jpg": "/static/media/BrainTumor.571a1d66e1434881c505.jpg",
     "static/media/Retinopathy.jpg": "/static/media/Retinopathy.817d359001359522087f.jpg",
     "static/media/CPCScore.jpg": "/static/media/CPCScore.b61f6c40deb6715759c1.jpg",
@@ -11,10 +13,10 @@
     "static/media/me-about.svg": "/static/media/me-about.c50c576af78a4172f78dc03f701a9a51.svg",
     "index.html": "/index.html",
     "main.22febaff.css.map": "/static/css/main.22febaff.css.map",
-    "main.76a11a20.js.map": "/static/js/main.76a11a20.js.map"
+    "main.5dc54582.js.map": "/static/js/main.5dc54582.js.map"
   },
   "entrypoints": [
     "static/css/main.22febaff.css",
-    "static/js/main.76a11a20.js"
+    "static/js/main.5dc54582.js"
   ]
 }
