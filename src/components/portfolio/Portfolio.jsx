@@ -4,17 +4,19 @@ import IMG1 from '../../assets/CPCScore.jpg';
 import IMG2 from '../../assets/BrainTumor.jpg';
 import IMG3 from '../../assets/Raspberry.jpg';
 import IMG4 from '../../assets/Retinopathy.jpg';
+import IMG5 from '../../assets/port-image.png';
+import IMG6 from '../../assets/gen-website.png';
 
 const data = [
 	{
 		id: 1,
-		image: IMG1,
+		image: IMG6,
 		title: 'Innovative Threads: A 3D design Experience powered by DALL-E',
 		github: 'https://github.com/praveenraj087/three-generative-ai',
 	},
 	{
 		id: 2,
-		image: IMG1,
+		image: IMG5,
 		title: 'Personal Portfolio Design',
 		github:
 			'https://github.com/praveenraj087/praveenraj087.github.io/tree/main',
