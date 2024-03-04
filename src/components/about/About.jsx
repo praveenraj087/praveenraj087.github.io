@@ -34,10 +34,13 @@ const About = () => {
 					</div>
 
 					<p>
-						Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aut at
-						impedit deleniti ab nobis sed ea perferendis libero repellendus,
-						repudiandae corporis tenetur reprehenderit id dicta doloremque
-						doloribus consequuntur quam ullam.
+						As an adept professional in the technology sector, I specialize in
+						machine learning and data science, integrating analytical precision
+						with creative problem-solving. My approach combines technical
+						proficiency with strategic thinking, aiming to resolve complex
+						issues efficiently. Committed to continuous learning, I leverage my
+						skills to contribute positively to dynamic teams and impactful
+						projects, fostering growth and technological advancement.
 					</p>
 
 					<a href='#contact' className='btn btn-primary'>
